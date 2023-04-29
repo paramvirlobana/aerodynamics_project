@@ -216,5 +216,3 @@ drag_polar(b, c, alpha_0, N)
 
 # %%
 
-
-
